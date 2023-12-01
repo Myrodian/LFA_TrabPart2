@@ -1,0 +1,9 @@
+w - pula
+a - esquerda
+d - direita
+x - abaixa
+s - soco
+c - chute
+
+soco, chute, soco -> virar super sayagin
+pula, agacha, pula -> teleporte
